@@ -1,0 +1,4 @@
+1. Escrevendo em arquivo
+2. Escrevendo em arquivo
+3. Escrevendo em arquivo
+4. Escrevendo em arquivo

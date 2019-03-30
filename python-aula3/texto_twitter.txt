@@ -1,0 +1,3 @@
+I am doing an offline course of data analysis and the ideia is to collect tweets on certain topics to understand the data relationships as well as the functioning of the different APIs available on Twitter.
+
+The main use case is develop the applications that the professor will challenge us to make (apps like sentimental analysis, text classification, among others). In addition, it is also about understanding how the different Twitter APIs works, as well, the Python programming language.
